@@ -3,9 +3,10 @@
 ## Who Am I?
 
 I'm an Undergraduate Student currently undertaking a Bachelors in Information Technology from Heritage Institute of Technology, Kolkata.I'm a Pythoneer who loves coding in Python along with other General-Purpose Languages like C and Java.I love to explore new possibilities and work on interesting ideas with my intuitive problem solving skills.
-Proficient in Python, Data Structures and Algorithms.
-Exposed to technologies like Python Django.
 
+
+- 🚀 Proficient in Python, Data Structures and Algorithms.
+- 🤓 Exposed to technologies like Python Django.
 - 🔭 I’m currently working on my development skills.
 - 💬 Ask me about anything, I am happy to help;
 
@@ -21,10 +22,3 @@ Exposed to technologies like Python Django.
 
 
 Thanks!! ✌️
-
-<!--
-<a href=https://github-readme-stats.vercel.app">
--->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan284&layout=compact" alt="Aryan284" />
- </a>
-<!--
