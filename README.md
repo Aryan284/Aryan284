@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
-## Who Am I?
+## Who AM I?
 
 I'm an Undergraduate Student currently undertaking a Bachelors in Information Technology from Heritage Institute of Technology, Kolkata.I'm a Pythoneer who loves coding in Python along with other General-Purpose Languages like C and Java.I love to explore new possibilities and work on interesting ideas with my intuitive problem solving skills.
 Proficient in Python, Data Structures and Algorithms.
