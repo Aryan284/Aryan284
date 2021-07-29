@@ -2,13 +2,13 @@
 
 ## Who Am I?
 
-I'm an Undergraduate Student currently undertaking a Bachelors in Information Technology from Heritage Institute of Technology, Kolkata.I'm a Pythoneer who loves coding in Python along with other General-Purpose Languages like C and Java.I love to explore new possibilities and work on interesting ideas with my intuitive problem solving skills.
+I'm an Undergraduate Student currently undertaking a Bachelors in Information Technology from Heritage Institute of Technology, Kolkata.I'm a Pythoneer who loves coding in Python along with other General-Purpose Languages like C and Java. I love to explore new possibilities and work on interesting ideas with my intuitive problem solving skills.
 
 
 - 🚀 Proficient in Python, Data Structures and Algorithms.
-- 🤓 Exposed to technologies like Python Django.
+- 🤓 Exposed to technologies like Python-Django.
 - 🔭 I’m currently working on my development skills.
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help.
 
 
 <br> 
@@ -37,8 +37,8 @@ I'm an Undergraduate Student currently undertaking a Bachelors in Information Te
 
 ### Find me around the web :earth_asia::
 
-* Connect me on [LinkedIn](https://www.linkedin.com/in/aryan-a657411b6/)
-* Mail me on [Gmail](aryankvs28@gmail.com)
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/aryan-a657411b6/)
+* Mail me @[Gmail](aryankvs28@gmail.com)
 
 
 Thanks!! ✌️
