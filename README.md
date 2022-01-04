@@ -37,9 +37,9 @@ I'm an Undergraduate Student currently undertaking a Bachelors in Information Te
 
 ### Find me around the web :earth_asia::
 <p align="left">
-<a href="https://www.linkedin.com/in/aryan-a657411b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-284" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aryan_28?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryan284" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Aryan284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan284" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aryankvs28/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aryan284" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/aryan-a657411b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-284" height="20" width="30" /></a>&ensp;
+<a href="https://www.hackerrank.com/aryan_28?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryan284" height="20" width="30" /></a>&ensp;
+<a href="https://www.leetcode.com/Aryan284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan284" height="20" width="30" /></a>&ensp;
+<a href="https://auth.geeksforgeeks.org/user/aryankvs28/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aryan284" height="20" width="30" /></a>&ensp;
+<br><br>
 Thanks!! ✌️
