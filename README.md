@@ -2,13 +2,39 @@
 
 ## Who Am I?
 
-I'm an Undergraduate Student currently undertaking a Bachelors in Information Technology from Heritage Institute of Technology, Kolkata.I'm a Pythoneer who loves coding in Python along with other General-Purpose Languages like C and Java. I love to explore new possibilities and work on interesting ideas with my intuitive problem solving skills.
+## 👋 Hi there!
 
+I’m a Software Development Engineer at Amazon with 3+ years of experience building scalable backend systems across cloud, embedded platforms, and fintech.
 
-- 🚀 Proficient in Python, Data Structures and Algorithms.
-- 🤓 Exposed to technologies like Python-Django.
-- 🔭 I’m currently working on my development skills.
-- 💬 Ask me about anything, I am happy to help.
+### 🚀 About Me
+
+* 💻 Backend engineer focused on distributed systems and scalable architectures
+* ☁️ Experience building and operating systems on AWS
+* ⚙️ Previously worked at AMD on low-level systems and embedded platforms
+* 🤖 Worked on AI-integrated applications leveraging modern LLM APIs
+
+### 🛠️ Tech Stack
+
+* **Languages:** Java, Python, C++, Golang
+* **Backend:** Spring Boot, Microservices
+* **Cloud:** AWS (S3, Athena, Dynamo DB, ECS and other infra)
+* **Core:** Distributed Systems, System Design, Linux
+
+### 🧠 Problem Solving
+
+* 🏆 Competitive Programmer — Top 10% globally on LeetCode
+* 🔍 Strong foundation in Data Structures & Algorithms
+
+### 🌱 Currently
+
+* Building scalable backend systems
+* Exploring system design and distributed architectures
+
+### 💬 Let’s Connect
+
+* 📫 [aryankvs28@gmail.com](mailto:aryankvs28@gmail.com)
+* 🤝 Open to backend, platform, and distributed systems roles
+
 
 
 <br> 
