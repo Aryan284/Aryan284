@@ -2,7 +2,6 @@
 
 ## Who Am I?
 
- 👋 
 I’m a Software Development Engineer at Amazon with 3+ years of experience building scalable backend systems across cloud, embedded platforms, and fintech.
 
 ### 🚀 About Me
